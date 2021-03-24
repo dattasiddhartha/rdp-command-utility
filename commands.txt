@@ -1,0 +1,8 @@
+command,time_delay
+start_rdp,
+winr,
+cmd,
+<enter>,1000
+ipconfig,
+<enter>,3000
+kill_rdp,
